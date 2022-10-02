@@ -1,0 +1,12 @@
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\ClBiblioteca\bin\Debug\net6.0\ClBiblioteca.deps.json
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\ClBiblioteca\bin\Debug\net6.0\ClBiblioteca.dll
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\ClBiblioteca\bin\Debug\net6.0\ClBiblioteca.pdb
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\ClBiblioteca\obj\Debug\net6.0\ClBiblioteca.csproj.AssemblyReference.cache
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\ClBiblioteca\obj\Debug\net6.0\ClBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\ClBiblioteca\obj\Debug\net6.0\ClBiblioteca.AssemblyInfoInputs.cache
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\ClBiblioteca\obj\Debug\net6.0\ClBiblioteca.AssemblyInfo.cs
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\ClBiblioteca\obj\Debug\net6.0\ClBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\ClBiblioteca\obj\Debug\net6.0\ClBiblioteca.dll
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\ClBiblioteca\obj\Debug\net6.0\refint\ClBiblioteca.dll
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\ClBiblioteca\obj\Debug\net6.0\ClBiblioteca.pdb
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\ClBiblioteca\obj\Debug\net6.0\ref\ClBiblioteca.dll

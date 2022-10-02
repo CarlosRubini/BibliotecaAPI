@@ -1,0 +1,7 @@
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\AppBibliotecaAPI\obj\Debug\net5.0\AppBibliotecaAPI.csproj.AssemblyReference.cache
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\AppBibliotecaAPI\obj\Debug\net5.0\AppBibliotecaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\AppBibliotecaAPI\obj\Debug\net5.0\AppBibliotecaAPI.AssemblyInfoInputs.cache
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\AppBibliotecaAPI\obj\Debug\net5.0\AppBibliotecaAPI.AssemblyInfo.cs
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\AppBibliotecaAPI\obj\Debug\net5.0\AppBibliotecaAPI.csproj.CoreCompileInputs.cache
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\AppBibliotecaAPI\obj\Debug\net5.0\AppBibliotecaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cadu-\Desktop\FACULDADE\AppBibliotecaAPI\AppBibliotecaAPI\obj\Debug\net5.0\AppBibliotecaAPI.MvcApplicationPartsAssemblyInfo.cache
